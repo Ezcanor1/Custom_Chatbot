@@ -1,7 +1,12 @@
 flask
+flask-cors
 torch
 transformers
 langchain
 langchain_community
 sentence-transformers
 faiss-cpu
+llama-cpp-python
+requests
+beautifulsoup4
+lxml
